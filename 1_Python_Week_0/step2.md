@@ -1,35 +1,37 @@
-# (Optional) Installing Python Locally
-You don't need to install python locally for this course but if you would like to then you can follow these steps.
+# How to use the Killercoda platform 
+We will go through this during our first week but the same instructions are here for your reference if you need it.
 
-If you need help setting this up, don't hesitate to reach out to a mentor, message the Support Channel on Teams!
-<hr>
 
-**1. Installing on Windows**<br>
-Simply head over to [Python.org](https://www.python.org/) and download Python. Afterwards, open up *Command Prompt* and enter the following to see if Python has been installed: `python --version`, in which case it will tell you the current version of Python installed, such as `Python 3.8.5`.
+[//]: # (todo: add killercoda platform tutorial here)
+**Terminal**<br>
+The Terminal is like the Command Prompt on your Windows computer. Using that, you can do everything that you can achieve via mouse and keyboard and more, from creating folders to changing computer settings.
 
-**1. Installing on Windows without Admin Access**<br>
-Option A: Go through the same process as above, but when the installer reaches the relevant step uncheck the "*install for all users*" option. This should install without requiring admin access.
+Killercoda has Python pre-installed within the system which allows us to run `python hello.py`{{copy}}. What that does is ask the installed Python module to run a file called *hello.py*.
 
-Option B: Install [Anaconda](https://www.anaconda.com/), which by default should install without requiring admin access.
+**File Editor**<br>
+The File Editor is a bit like your computer. You can have folders and then files inside of those folders. These files are just like files on your computer - images, videos etc. Pictures might be named `dog.png` or `cutebunnies.jpg` for example, while we name Python files as `example.py`. Python files are like other files, and we simply name the file extensions as `.py` so that programmes know it's a Python file.
 
-Option C: Go to the download page for a specific version of Python such as [3.8.5](https://www.python.org/downloads/release/python-385/), download the binary/zip file, unzip the folder, open up *edit environmental variables for your account* through the Windows search bar, edit PATH and add a new entry for where your unzipped folder is.
+1. Go to the editor tab on the right hand side
+2. Create a new file called hello.py by right-clicking on the file explorer and click new file.
+3. Copy the code over to the editor: `print("Hello World")`
+4. Type `python hello.py`{{exec}} into the terminal. You can also type that yourself via the Terminal (bottom right) and then press ENTER to execute it.
 
-**1. Installing on macOS**<br>
-Simply head over to [Python.org](https://www.python.org/) and download Python. Afterwards, open up *Terminal* and enter the following to see if Python has been installed: `python --version`, in which case it will tell you the current version of Python installed, such as `Python 3.8.5`.
-
-<hr>
-
-**2. Editing**<br>
-You can edit Python code using anything ranging from the pre-installed *Notepad* on Windows or *TextEdit* on macOS to code editors such as [Visual Studio Code](https://code.visualstudio.com) or [Sublime Text](https://www.sublimetext.com/download). It's ultimately down to personal preference!
+![Terminal](./assets/HelloWorld.png)
 
 <hr>
 
-**3. Running on Windows**<br>
-Open up *Command Prompt*, [navigate to the folder](https://www.howtogeek.com/659411/how-to-change-directories-in-command-prompt-on-windows-10/) where your Python code is stored, and then type `python filename.py`.
+# Online Python Editors
+Want to quickly write and run simple Python code but not install Python on your computer? Try some of these online options!
+- [replit](https://replit.com/languages/python3)
+- [Google Colab](https://colab.research.google.com/)
+- [W3Schools](https://www.w3schools.com/python/trypython.asp?filename=demo_compiler)
+- [Visual Studio Code - Browser Version](https://vscode.dev/) (can edit but not run code)
 
-Alternatively, simply type `python` to run Python directly from *Command Prompt*, just like Killercoda's Terminal we have set up to the right.
 
-**3. Running on macOS**<br>
-Open up *Terminal*, [navigate to the folder](https://www.maketecheasier.com/run-python-script-in-mac/) where your Python code is stored, and then type `python filename.py`.
+You can click the code snippets below to copy the code to a Python file in your editor (top right).
 
-Alternatively, simply type `python` to run Python directly from *Terminal*, just like Killercoda's Terminal we have set up to the right.
+Messy Terminal? Type in `clear` in the terminal to clean it.
+
+<hr>
+
+<marquee style='color: blue;'><b>Yay you've completed part 1!</b></marquee>
