@@ -19,11 +19,6 @@
         "title": "Elif",
         "text": "step3.md",
         "foreground": "clear.sh"
-      },
-      {
-        "title": "Why am I doing this?",
-        "text": "step6.md",
-        "foreground": "clear.sh"
       }
     ],
     "intro": {
