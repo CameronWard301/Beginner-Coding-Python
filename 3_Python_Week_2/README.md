@@ -1,0 +1,2 @@
+[Kahoot Week 2 Part 1](https://create.kahoot.it/details/f3315997-4ece-445c-a751-f096d3726cf2)    
+[Kahoot Week 2 Part 2 (Variables)](https://create.kahoot.it/details/eb041ba9-310d-46ea-b57a-2857b3c501ba)
