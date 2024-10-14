@@ -6,13 +6,18 @@
   "details": {
     "steps": [
       {
-        "title": "Using Killercoda",
+        "title": "Why use python",
         "text": "step1.md",
         "foreground": "clear.sh"
       },
       {
-        "title": "(Optional) Installing Python Locally",
+        "title": "Using Killercoda",
         "text": "step2.md",
+        "foreground": "clear.sh"
+      },
+      {
+        "title": "(Optional) Installing Python Locally",
+        "text": "step3.md",
         "foreground": "clear.sh"
       }
     ],
