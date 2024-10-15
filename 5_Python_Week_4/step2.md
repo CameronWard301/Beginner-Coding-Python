@@ -31,7 +31,25 @@ for x in fruits:
         break
 ```{{copy}}
 
-## Excercises:
+We also have the range function:
+```
+for i in range(5):
+    print(i)
+```{{copy}}
+
+
+We use the range function with the length function to iterate through a list too.
+What is the value of len(fruits)? 
+Notice that this is another way of writing the example above.
+```
+fruits = ["apple", "banana", "cherry"]
+for i in range(len(fruits)):
+    print(i)
+    if i == "banana":
+        break
+```{{copy}}
+
+## Exercises:
 ### 1.
 * Write a Python program that asks the user to enter an integer and counts the number of digits in the integer.
 * Use a for loop to iterate through each digit in the integer.
