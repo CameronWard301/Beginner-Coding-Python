@@ -15,16 +15,6 @@
         "title": "Try it yourself!",
         "text": "step2.md",
         "foreground": "clear.sh"
-      },
-      {
-        "title": "Solutions to Step 2",
-        "text": "step2Solutions.md",
-        "foreground": "clear.sh"
-      },
-      {
-        "title": "Read further",
-        "text": "step6.md",
-        "foreground": "clear.sh"
       }
     ],
     "intro": {
