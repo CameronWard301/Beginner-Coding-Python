@@ -49,9 +49,9 @@ This can be useful in the following situation:
 ```
 answer = input("Do you want to continue? Yes or no: ")
 if answer.lower() == "yes":
-print("you have continued")
+    print("you have continued")
 else:
-print("you have quit")
+    print("you have quit")
 ```{{copy}}
 
 ## Nested if statements:
@@ -62,15 +62,15 @@ bookedRooms = 3
 breakfast = True
 
 if bookedRooms == 1:
-print ("You have booked 1 room")
-if breakfast:
-print("You have booked breakfast each morning")
+    print ("You have booked 1 room")
+    if breakfast:
+        print("You have booked breakfast each morning")
 elif bookedRooms == 2:
-print ("You have booked 2 rooms")
-if breakfast:
-print("You have booked breakfast each morning")
+    print ("You have booked 2 rooms")
+    if breakfast:
+        print("You have booked breakfast each morning")
 else:
-print ("You can only book a maximum of 2 rooms")
+    print ("You can only book a maximum of 2 rooms")
 ```{{copy}}
 
 # Exercises:

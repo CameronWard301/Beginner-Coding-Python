@@ -17,9 +17,9 @@ print("I have finished checking your age")
 ```
 age = 17
 if age < 0:
-print("You haven't been born yet.")
+    print("You haven't been born yet.")
 else:
-print("You are born")
+    print("You are born")
 ```{{copy}}
 
 <hr>
