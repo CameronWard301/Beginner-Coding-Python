@@ -1,4 +1,4 @@
-Congratuations, you now understand how to use the Killercoda IDE and have run your first programme in it.
+Congratulations, you now understand how to use the Killercoda IDE and have run your first programme in it.
 It's all fun from here on out!
 
 # Next steps:

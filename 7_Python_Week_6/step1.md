@@ -10,7 +10,7 @@ Word Jumble:
 * The user wins if they unscramble the word correctly.
 * Can you extend the program so that the user can enter their own words before starting the game?
 * Use this code to randomly jumble a word from the words list:
-```python
+```
 import random
 
 # List of words to choose from
@@ -25,7 +25,7 @@ while word:
     position = random.randrange(len(word))
     jumble += word[position]
     word = word[:position] + word[(position + 1):]
-```
+```{{copy}}
 
 ## 2.
 Rock Paper Scissors
@@ -34,11 +34,11 @@ Rock Paper Scissors
 * Determine the winner based on the rules of the game (rock beats scissors, scissors beat paper, paper beats rock)
 * Keep track of the score and play again until the user decides to quit
 * Use this code to generate a random answer from the computer:
-```python
+```
 import random
 game_options = ["rock", "paper", "scissors"]
 computer_choice = random.choice(game_options)
-```
+```{{copy}}
 
 ## 3.
 Hangman
@@ -50,7 +50,7 @@ Hangman
 * Repeat until the user guesses the word or runs out of lives
 * Hint: `["_"] * len(word)` use this to generate the number of underscores for a word
 * Use this code to check if the user's guess is in the word they're trying to guess
-```python
+```
 # Check if the guessed letter is in the word
 found_letter = False
 for i in range(len(word)):
@@ -58,4 +58,4 @@ for i in range(len(word)):
         # If the guessed letter is in the word, reveal the position(s) of the letter in the underscores
         underscores[i] = guess
         found_letter = True
-```
+```{{copy}}

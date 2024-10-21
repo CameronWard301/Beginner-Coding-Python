@@ -11,7 +11,7 @@ To call a function, use the name of the function and add parenthesis () at the e
 You will see how there are indentations (tabs or spaces - up to the programmer!) underneath any colons (functions, loops, if statements...).
 This tells Python that the code underneath is part of the same block, and without the correct indents Python will not work.
 
-In calling a function at the bottom, there are no indents as this is considered the 'main' function, where the code runs outside of a function
+In calling a function at the bottom, there are no indents as this is considered the 'main' function, where the code runs outside a function
 and executes the rest of our script.
 
 ```python
