@@ -6,7 +6,7 @@ Messy Terminal? `clear`{{execute}} it.
 A function is a named section of a code that performs a specific task.
 This typically involves taking some input, manipulating the input and returning an output.
 
-To call a function, use the name of the function and add parenthesis (): at the end.
+To call a function, use the name of the function and add parenthesis () at the end.
 
 You will see how there are indentations (tabs or spaces - up to the programmer!) underneath any colons (functions, loops, if statements...).
 This tells Python that the code underneath is part of the same block, and without the correct indents Python will not work.
