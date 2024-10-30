@@ -35,7 +35,7 @@ print(number + 5)
 
 ```
 number = int(input("Enter a number"))
-print(number)
+print(number + 5)
 ```{{copy}}
 
 <hr>
