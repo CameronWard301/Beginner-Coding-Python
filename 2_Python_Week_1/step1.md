@@ -77,7 +77,7 @@ print(2%3)
 
 # Quick Exercises
 - Save your age as a variable
-- Save the current year (2022 as of writing) as a second variable
+- Save the current year (2024 as of writing) as a second variable
 - Subtract the current year by your age (using the variables) and save that as a third variable
 - Print out the third variable
 - You've found your birth year! (We're assuming you were born on 1st January to keep this task simple.)
