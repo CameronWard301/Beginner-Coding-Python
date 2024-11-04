@@ -53,7 +53,7 @@ It features:
 2. Right-click on the file explorer on the left and select new file
 ![Terminal_3](./assets/Terminal_3.png)
 3. Name the file `hello.py`, when you press ok it should open up automatically, if not double-click it from the file explorer
-4. Copy the code over to the editor: `print("Hello World")` and save it by pressing `control (or command for mac) s` 
+4. Copy the code over to the editor: `print("Hello World")` and save it by pressing control (or command for mac) s 
 5. Type `python hello.py`{{exec}} into the terminal and press enter to execute the file named `hello.py`
 
 ![Terminal_4](./assets/Terminal_4.png)
