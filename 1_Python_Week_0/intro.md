@@ -7,7 +7,7 @@ We will go through this module in the first week too so don't worry if you don't
 
 ## Course Overview:
 ### Week 1:
-* Variables, Inputs & Comparisons
+* Variables, Inputs & Data Types
 
 ### Week 2:
 * Conditional Statements (Led by Oluwaponmile)
