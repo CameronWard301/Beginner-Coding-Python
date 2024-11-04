@@ -10,16 +10,16 @@ We will go through this module in the first week too so don't worry if you don't
 * Variables, Inputs & Comparisons
 
 ### Week 2:
-* Conditional Statements
+* Conditional Statements (Led by Oluwaponmile)
 
 ### Week 3:
-* Lists
+* Lists (Led By Jean-Benoît)
 
 ### Week 4:
-* Loops
+* Loops (Led by Naomi)
 
 ### Week 5:
-* Functions
+* Functions (Led by Joe)
 
 ### Week 6:
-* Challenge Games
+* Challenge Games (Led by Dan)
