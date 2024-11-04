@@ -1,7 +1,7 @@
 # Welcome to Python Beginner Coding - Crash Course
 ## Course Overview:
 ### Week 1:
-* Variables, Inputs & Comparisons
+* Variables, Inputs & Data Types
 
 ### Week 2:
 * Conditional Statements
