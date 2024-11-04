@@ -69,4 +69,4 @@ Extend your program to print out 2 lines – “Pleased to meet you Tom./n Tom i
 Ask for help if you get stuck!
 
 You have completed part 1!
-Kahoot Time!!!
+Kahoot Part 1 Time!!!
