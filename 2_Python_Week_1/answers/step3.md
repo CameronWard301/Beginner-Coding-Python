@@ -8,7 +8,7 @@
 
 ```python
 age = input("What is your age? ")
-print("Your new age is: " int(a) - 1)
+print("Your new age is: " + str(int(age) - 1))
 ```
 
 ## 2.
@@ -20,7 +20,7 @@ square = number*number
 print(square)
 
 ###Challenge:###
-print("The square of", number, "is", square)
+print("The square of " + str(number) +  " is " + str(square))
 ```
 
 ## 3.
@@ -39,15 +39,15 @@ n1 = int(input("Enter a number: "))
 n2 = int(input("Enter a number: "))
 n3 = int(input("Enter a number: "))
 sum = n1 + n2 + n3
-print("Sum: ", sum)
+print("Sum: " + str(sum))
 
 ###Challenge:###
-print("Average: ", sum / 3)
+print("Average: " + str(sum / 3))
 ```
 
 ## 5.
 Ask user for a number and print out the previous and next number.
 ```python
 number = int(input("Enter number: "))
-print(number - 1, "and", number + 1)
+print(str(number - 1) + " and " + str(number + 1))
 ```
