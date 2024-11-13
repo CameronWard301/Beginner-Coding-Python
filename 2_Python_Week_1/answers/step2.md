@@ -22,6 +22,6 @@ print("Pleased to meet " + name + ".\n" + name + " is feeling " + emotion + " to
 * Write a program to ask user for a name and ask user what pronouns to use (ie he/him/she/her).  Print your story using the users names and pronouns so that it makes sense.
 ```
 name = input("What is your character's name? ")
-pronoun = input("What is your character's pronoun? e.g. he/her/she/her
+pronoun = input("What is your character's pronoun? e.g. he/her/she/her")
 print(name + " had just started to learn python, " + pronoun + " were really enjoying it and learning lots of useful information.")
 ```
