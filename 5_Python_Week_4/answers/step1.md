@@ -100,7 +100,7 @@ guess = 0
 while guess != random_number:
     guess = int(input("Guess the random number (between 1 and 100): "))
     
-print("Congratulations! You guessed the random bnumber
+print("Congratulations! You guessed the random number")
 ```
 
 Challenge:
