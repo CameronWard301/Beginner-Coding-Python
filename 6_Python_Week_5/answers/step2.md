@@ -71,7 +71,7 @@ def expense_tracker(expenses_list):
 * Write a function max_expense(expenses_list) that takes a list of expenses and returns the maximum expense.
 ```python
 def max_expense(expenses_list):
-    max_exp = expenses_list
+    max_exp = expenses_list[0]
     for expense in expenses_list:
         if expense > max_exp:
             max_exp = expense
