@@ -10,7 +10,7 @@ We will go through this module in the first week too so don't worry if you don't
 * Variables, Inputs & Data Types
 
 ### Week 2:
-* Conditional Statements (Led by Oluwaponmile)
+* Conditional Statements (Led by Annie)
 
 ### Week 3:
 * Lists (Led By Jean-Benoît)
@@ -19,7 +19,7 @@ We will go through this module in the first week too so don't worry if you don't
 * Loops (Led by Naomi)
 
 ### Week 5:
-* Functions (Led by Joe)
+* Functions (Led by Dan)
 
 ### Week 6:
-* Challenge Games (Led by Dan)
+* Challenge Games (Led by Oluwaponmile)
