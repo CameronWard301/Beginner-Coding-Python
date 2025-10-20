@@ -44,8 +44,8 @@ Notice that this is another way of writing the example above.
 ```
 fruits = ["apple", "banana", "cherry"]
 for i in range(len(fruits)):
-    print(i)
-    if i == "banana":
+    print(fruits[i])
+    if fruits[i] == "banana":
         break
 ```{{copy}}
 
